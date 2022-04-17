@@ -2,6 +2,8 @@
 
 I am passionate about:
 
+👌 _data science_
+
 👌 _machine learning_ 
 
 👌 _software development_
