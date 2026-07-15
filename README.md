@@ -2,7 +2,7 @@
 
 **Product Manager with an engineering mindset.** I own products in complex technical domains — Web3, the creator economy, on-chain systems — and because I ship the front-end myself in React/TypeScript, I close the gap between what the spec says and what actually ships.
 
-🎓 M.S. Computer Science, University of Illinois Urbana-Champaign (HCI & Systems focus)
+🎓 Master of Computer Science, University of Illinois Urbana-Champaign (HCI & Systems focus)
 🧩 I work where product, technical systems, and incentive design overlap.
 
 ---
